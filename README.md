@@ -35,6 +35,22 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ---
 
+## 🚀 Production Build
+
+To run the app in production mode (without the development overlay/menu):
+
+```bash
+# Build the production version
+pnpm run build
+
+# Start the production server
+pnpm run start
+```
+
+This will run the app on [http://localhost:3000](http://localhost:3000) without the development tools overlay.
+
+---
+
 ## 🔗 Social Media
 
 Follow me for more emotional surprise websites and creative dev content:
